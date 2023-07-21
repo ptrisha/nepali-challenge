@@ -1,1 +1,1 @@
-# nepali-nlp
+# nepali-challenge
